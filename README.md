@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PieterPel
+- 👀 I’m interested in partying, economics, fiscal law and reading
+- 🌱 I’m currently studying econometrics, economics and fiscal law in Rotterdam, the Netherlands
+- 💞️ I’m looking to collaborate on R project for seminar
