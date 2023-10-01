@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PieterPel
 - 👀 I’m interested in econometrics, economics, tax law, reading and partying
-- 🌱 I’m currently studying Masters' in Quantitative Finance and Tax Law in Rotterdam, the Netherlands
+- 🌱 I’m currently studying two masters' in Quantitative Finance and Tax Law in Rotterdam, the Netherlands
