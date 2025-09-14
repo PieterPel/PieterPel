@@ -1,11 +1,9 @@
-- 👋 Hi, Welcome to my profile!
+Machine learning engineer @ RebelsAI
 
-I have a background in Econometrics and Tax Law;
+I have an academic background in Econometrics and Tax Law;
 
-Mainly use Python for study and professional quantitative applications;
+Enjoy writing Rust and Nix projects in my spare time;
 
-Enjoy writing Rust projects in my spare time;
-
-NixOS dotfiles repo available on my profile;
+NixOS + Nix-darwin dotfiles repo available on my profile;
 
 I try to contribute where I can;
